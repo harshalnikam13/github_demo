@@ -16,7 +16,7 @@ def divide(x,y):
 		return x/y;	#on Bug456 branch
 #Square implementation
 def square(x):
-	pass
+	x*x;
 
 #Cube implementation
 def cube(x):
