@@ -20,4 +20,4 @@ def square(x):
 
 #Cube implementation
 def cube(x):
-	pass
+	x*x*x;
