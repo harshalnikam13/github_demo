@@ -17,3 +17,7 @@ def divide(x,y):
 #Square implementation
 def square(x):
 	pass
+
+#Cube implementation
+def cube(x):
+	pass
